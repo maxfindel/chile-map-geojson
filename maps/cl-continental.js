@@ -1,10 +1,10 @@
-Highcharts.maps["countries/cl/cl-continental-2021"] = {
+Highcharts.maps["maps/cl-continental"] = {
   "title": "Chile New Regions",
   "version": "1.0.0",
   "type": "FeatureCollection",
   "copyright": "Copyright (c) 2021 Max F. Findel, Based on data from https://www.openstreetmap.org/ & http://polygons.openstreetmap.fr/",
-  "copyrightShort": "Max F. Findel",
-  "copyrightUrl": "https://github.com/maxfindel",
+  "copyrightShort": "Chile Map GeoJSON",
+  "copyrightUrl": "https://github.com/maxfindel/chile-map-geojson",
   "features": [
     {
       "type": "Feature",
