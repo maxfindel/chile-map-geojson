@@ -10,6 +10,11 @@ You can find a running example here: [https://jsfiddle.net/r24hbewz/2](https://j
 
 ![](/example/full-map.png)
 
+## Related repos
+
+* [https://github.com/jlhonora/geo](https://github.com/jlhonora/geo)
+* [https://github.com/caracena/chile-geojson](https://github.com/caracena/chile-geojson)
+
 ##  To do
 
 * Add de separated importable file for each region
