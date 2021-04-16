@@ -6,7 +6,7 @@ Includes the latest updates of 2020 like the Ñuble Region.
 
 ## Example
 
-You can find a running example here: [https://jsfiddle.net/r24hbewz/](https://jsfiddle.net/r24hbewz/).
+You can find a running example here: [https://jsfiddle.net/r24hbewz/2](https://jsfiddle.net/r24hbewz/2)
 
 ![](/example/full-map.png)
 
